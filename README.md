@@ -1,17 +1,11 @@
-# Spring - Node starter
+# StaticGen
 
-I use this to quickly get started on any ideas I have -- a standalone NodeJS starter.
+I built this to learn more about static site generators. I started building this right after I figured out that metalsmith had around 400 lines of code.
 
-Quickly launch a node server.
-
-## Whats Included?
-
-* Babel 7
-* Environment Variables
 
 ## Instructions
-* `git clone git@github.com:AdvaithD/spring.git`
-* `cd spring`
+* `git clone git@github.com:AdvaithD/staticgen.git`
+* `cd staticgen`
 * `yarn`
 * `yarn start`
 
